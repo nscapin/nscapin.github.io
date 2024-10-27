@@ -11,54 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Fluid Mechanics, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Fluid Mechanics**, KTH Royal Institute of Technology (Stockholm, Sweden), June 2022
+* **MSc in Energy Engineering**, Politecnico di Milano (Milan, Italy), 2017
+* **BSc in Energy Engineering**, Politecnico di Milano (Milan, Italy), 2014
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2023 - Present: **Postdoctoral Research Fellow** at Princeton University (Princeton, NJ, US)
+  * [High Meadows Environmental Institute](https://environment.princeton.edu/) and [Department of Mechanical and Aerospace Engineering](https://mae.princeton.edu/)
+  * Mentors: [Luc Deike](https://ldeike.princeton.edu/) and [Gabriel Vecchi](https://vecchi.princeton.edu/)
+  * Research topics: air-sea interaction, wind-forced growing and breaking waves, sea sprays
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2018 - December 2022: **Graduate Research Assistant** at KTH Royal Institute of Technology (Stockholm, Sweden)
+  * [Department of Engineering Mechanics](https://www.kth.se/en/tekmek/institutionen-for-teknisk-mekanik-1.1204789)
+  * Advisor: [Luca Brandt](https://www.mech.kth.se/~luca/index.php)
+  * Research topics: numerical methods for multiphase flows and large-scale simulations of phase-changing flows
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
