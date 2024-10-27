@@ -5,13 +5,15 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
+--- 
 
 {% include base_path %}
 
 Education
 ======
-* **Ph.D. in Fluid Mechanics**, KTH Royal Institute of Technology (Stockholm, Sweden), June 2022
+* **Ph.D. in Fluid Mechanics**, KTH Royal Institute of Technology (Stockholm, Sweden), June 2022 \
+  **Thesis title**: <em>Phase-changing flows: numerical methods and fully resolved simulations.</em> \
+  Defended on June 15th, 2022 - PhD Thesis available [here](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1660690&dswid=699) 
 * **MSc in Energy Engineering**, Politecnico di Milano (Milan, Italy), 2017
 * **BSc in Energy Engineering**, Politecnico di Milano (Milan, Italy), 2014
 
@@ -27,6 +29,17 @@ Research Experience
   * Advisor: [Luca Brandt](https://www.mech.kth.se/~luca/index.php)
   * Research topics: numerical methods for multiphase flows and large-scale simulations of phase-changing flows
 
-Service and leadership
+Industrial Experience
 ======
-* Currently signed in to 43 different slack teams
+* June 2017 - February 2018: **Research Engineer**, ENI S.p.A. (Milan, IT)
+  * Development of two and three-phase Eulerian solvers to model the transport of hydrocarbons in complex geometry
+  * Development of genetic algorithms for production optimization
+
+Funding acquisition
+======
+* 2023: **HMEI Fellowship** to support the Postdoctoral Fellowship at **Princeton University** (**$300k** over three years)
+* 2023: **International Postdoctoral Grant** awarded from the **Swedish Research Council - Vetenskapsrådet** to support the research at **Princeton University** (**3.10 MKr/$290k** over three years). Note: renounced due to incompatibility with the HMEI Fellowship
+
+Service to the Research Community
+======
+* July 2019 - present: **Peer reviewer** for Journal of Computational Physics, Computer and Fluids, Journal of Fluid Mechanics (Rapids), European Journal of Fluid Mechanics/B, Computer Physics Communication, Nature Computational Science
