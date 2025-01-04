@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-**Short summary of my Curriculum Vitae**
+Short summary of my curriculum vitae (download here a complete [CV](../files/CV_Nicolo_Scapin.pdf))
+======
 
 Education
 ======
@@ -42,4 +43,4 @@ Funding acquisition
 * 2023: **HMEI Fellowship** to support the Postdoctoral Fellowship at **Princeton University** (**$300k** over three years)
 * 2023: **International Postdoctoral Grant** awarded from the **Swedish Research Council - Vetenskapsrådet** to support the research at **Princeton University** (**3.10 MKr/$290k** over three years). Note: renounced due to incompatibility with the HMEI Fellowship
 
-[Download My CV](../files/CV_Nicolo_Scapin.pdf)
+<!--[Download My CV](../files/CV_Nicolo_Scapin.pdf) -->
