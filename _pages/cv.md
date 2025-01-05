@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Short summary of my Curriculum Vitae (download here a complete [CV](../files/CV_Nicolo_Scapin.pdf))
+Curriculum Vitae (download here a complete [CV](../files/CV_Nicolo_Scapin.pdf))
 ======
 
 Education
@@ -36,9 +36,9 @@ Industrial Experience
 ======
 * June 2017 - February 2018: **Research Engineer**, ENI S.p.A. (Milan, IT)
   * Development of multiphase Eulerian solvers to model the transport of hydrocarbons in complex geometry
-  * Participation in the start-up and the ramp-up activities of the Egyptian giant oil field [Zhor](https://www.eni.com/en-IT/actions/global-activities/egypt/zohr.html)
+  * Participation in the start-up and the ramp-up activities of the Egyptian giant gas field [Zhor](https://www.eni.com/en-IT/actions/global-activities/egypt/zohr.html)
 
 Funding acquisition
 ======
 * 2023: **HMEI Fellowship** to support the Postdoctoral Fellowship at **Princeton University** (**$300k** over three years)
-* 2023: **International Postdoctoral Grant** awarded from the **Swedish Research Council - Vetenskapsrådet** to support the research at **Princeton University** (**3.10 MKr/$290k** over three years). Note: renounced due to incompatibility with the HMEI Fellowship
+* 2023: **International Postdoctoral Grant** awarded from the **Swedish Research Council - Vetenskapsrådet** to support the research at **Princeton University** (**3.10 MKr/$290k** over three years) 
