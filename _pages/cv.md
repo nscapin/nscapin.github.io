@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae (download here a complete [CV](../files/CV_Nicolo_Scapin.pdf))
+Short Curriculum Vitae (here a complete [CV](../files/CV_Nicolo_Scapin.pdf))
 ======
 
 Education
