@@ -16,19 +16,19 @@ Accepted
 Peer-reviewed journals
 ======
 * "A Volume-of-Fluid method for multicomponent droplet evaporation with Robin boundary conditions" \
-  S. Z. Salimi, **N. Scapin**, E. R. Popescu, P. Costa, L. Brandt \
+  S. Z. Salimi, **N. Scapin**, E. R. Popescu, P. Costa, and L. Brandt \
   [Journal of Computational Physics (2024): 113211](https://www.sciencedirect.com/science/article/pii/S0021999124004601)
 * "Turbulent convection in emulsions: the Rayleigh–B´enard configuration" \
-  A. M. Bilondi, **N. Scapin**, L. Brandt, P. Mirbor \
+  A. M. Bilondi, **N. Scapin**, L. Brandt, and P. Mirbor \
   [Journal of Fluid Mechanics 999 (2024): A4](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/turbulent-convection-in-emulsions-the-rayleighbenard-configuration/C181E4DE91567EF267E48F6B1643DF7B)
 * "Effects of Rayleigh and Weber numbers on two-layer turbulent Rayleigh–Bénard convection" \
-  A. Demou, **N. Scapin**, M.C. Esposito, P. Costa, F. Spiga, L. Brandt \
+  A. Demou, **N. Scapin**, M.C. Esposito, P. Costa, F. Spiga, and L. Brandt \
   [Journal of Fluid Mechanics 996 (2024): A23](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/effects-of-rayleigh-and-weber-numbers-on-twolayer-turbulent-rayleighbenard-convection/1D97114A8D2BDBFFBAEC26EA8B910B09)
 * "An Efficient Isogeometric/Finite-Difference Immersed Boundary Method for the Fluid-Structure Interactions of Slender Flexible Structures" \
-  V. Agrawal, A. Kulachenko, **N. Scapin**, O. Tammisola, L. Brandt. \
+  V. Agrawal, A. Kulachenko, **N. Scapin**, O. Tammisola, and L. Brandt. \
   [Computer Methods in Applied Mechanics and Engineering 418 (2024): 116495](https://www.sciencedirect.com/science/article/pii/S0045782523006199)
 * "Evaporating Rayleigh-B´enard convection: prediction of interface temperature and global heat transfer modulation" \
-  **N. Scapin**, A. D. Demou, L. Brandt. \
+  **N. Scapin**, A. D. Demou, and L. Brandt. \
   [Journal of Fluid Mechanics 957 (2023): A12](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/evaporating-rayleighbenard-convection-prediction-of-interface-temperature-and-global-heat-transfer-modulation/5A616CC444D34ACBBA4817B91F53C62F)
 * "FluTAS: A GPU-accelerated finite difference code for multiphase flows" \
   M. Crialesi-Esposito, **N. Scapin**, A. D. Demou, M. E. Rosti, P. Costa, F. Spiga, and L. Brandt \
