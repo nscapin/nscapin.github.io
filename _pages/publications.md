@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Submitted/Accepted manuscript (S)
-======
+<h3 style="font-size: 20px;">Submitted/Accepted manuscript (S)</h3>
+
 **S01**: Momentum fluxes in wind-forced breaking waves. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Accepted for publication on the Journal of Fluid Mechanics</em>. See [Arxiv preprint](http://arxiv.org/abs/2411.03415)
     
-Peer-reviewed journals (J)
-======
+<h3 style="font-size: 20px;">Peer-reviewed journals (J)</h3>
+
 **J10**: "A Volume-of-Fluid method for multicomponent droplet evaporation with Robin boundary conditions" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. Z. Salimi, **N. Scapin**, E. R. Popescu, P. Costa, and L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Computational Physics (2024): 113211](https://www.sciencedirect.com/science/article/pii/S0021999124004601) \
@@ -46,14 +46,14 @@ Peer-reviewed journals (J)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, P. Costa, and L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Computational Physics 407 (2020): 109251](https://www.sciencedirect.com/science/article/abs/pii/S0021999120300255)
 
-Peer-reviewed proceedings (P)
-======
+<h3 style="font-size: 20px;">Peer-reviewed proceedings (P)</h3>
+
 **P01**: A mass-conserving pressure-based method for two-phase flows with phase change \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, A. Shahmardi, W. H. R. Chan, S. S. Jain, S. Mirjalili, M. Pelanti, L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Proceedings of the Summer Program, Center for Turbulence Research (2022)](https://web.stanford.edu/~sjsuresh/iii08_Scapin.pdf)
 
-Books chapters (B)
-======
+<h3 style="font-size: 20px;">Books chapters (B)</h3>
+
 **B01**: Overview of tropical cyclones and historical perspective, <em>Chapter 1 of Tropical Cyclones and Associated Impacts</em> \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W. Yang, M. Chung, L. Deike, T.-L. Hsieh, M. Igbinoba, E. Levin, S. Menemenlis, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I. Mitevski, G. Rios, **N. Scapin**, and G. A. Vecchi \
