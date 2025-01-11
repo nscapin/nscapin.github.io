@@ -11,7 +11,7 @@ Submitted/Accepted (S)
 ======
 **S01**: Momentum fluxes in wind-forced breaking waves. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Accepted for publication on the Journal of Fluid Mechanics</em>. See [Arxiv Link](http://arxiv.org/abs/2411.03415)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Accepted for publication on the Journal of Fluid Mechanics</em>. See [Arxiv preprint](http://arxiv.org/abs/2411.03415)
     
 Peer-reviewed journals (J)
 ======
