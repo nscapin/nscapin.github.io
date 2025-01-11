@@ -55,5 +55,6 @@ Peer-reviewed proceedings (P)
 Books chapters (B)
 ======
 **B01**: Overview of tropical cyclones and historical perspective, <em>Chapter 1 of Tropical Cyclones and Associated Impacts</em> \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W. Yang, M. Chung, L. Deike, T.-L. Hsieh, M. Igbinoba, E. Levin, S. Menemenlis, I. Mitevski, G. Rios, **N. Scapin**, and G. A. Vecchi \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W. Yang, M. Chung, L. Deike, T.-L. Hsieh, M. Igbinoba, E. Levin, S. Menemenlis, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I. Mitevski, G. Rios, **N. Scapin**, and G. A. Vecchi \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elsevier (2025), pp. 1-25](https://shop.elsevier.com/books/tropical-cyclones-and-associated-impacts/villarini/978-0-323-95390-0)
