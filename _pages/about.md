@@ -9,7 +9,7 @@ redirect_from:
 
 Hello and welcome to my website!
 
-I am Nicolò Scapin and I am a Postdoctoral Research Fellow at [Princeton University](https://www.princeton.edu/) with a joint appointment between the [Department of Mechanical and Aerospace Engineering](https://mae.princeton.edu/) and the [High Meadows Environmental Institute](https://environment.princeton.edu/). Here, I work with [Prof. Luc Deike](https://ldeike.princeton.edu/) in collaboration with [Prof. Gabe Vecchi](https://vecchi.princeton.edu/). Before I was a PhD student at the [Department of Engineering Mechanics](https://www.kth.se/en/tekmek/institutionen-for-teknisk-mekanik-1.1204789) at [Kungliga Tekniska högskolan](https://www.kth.se/) in Stockholm (Sweden).
+I am Nicolò Scapin and I am a Postdoctoral Research Fellow at [Princeton University](https://www.princeton.edu/) with a joint appointment between the [Department of Mechanical and Aerospace Engineering (MAE)](https://mae.princeton.edu/) and the [High Meadows Environmental Institute (HMEI)](https://environment.princeton.edu/). Here, I work with [Prof. Luc Deike](https://ldeike.princeton.edu/) and with [Prof. Gabe Vecchi](https://vecchi.princeton.edu/) from the [Department of Geoscience](https://geosciences.princeton.edu/). Before I was a PhD student at the [Department of Engineering Mechanics](https://www.kth.se/en/tekmek/institutionen-for-teknisk-mekanik-1.1204789) at [Kungliga Tekniska högskolan](https://www.kth.se/) in Stockholm (Sweden).
 
 Research 
 ======
