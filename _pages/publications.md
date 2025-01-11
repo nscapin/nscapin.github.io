@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Submitted/Accepted (S)
+Submitted/Accepted manuscript (S)
 ======
 **S01**: Momentum fluxes in wind-forced breaking waves. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
