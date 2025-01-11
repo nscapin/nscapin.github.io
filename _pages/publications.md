@@ -23,7 +23,7 @@ Peer-reviewed journals (J)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics 999 (2024): A4](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/turbulent-convection-in-emulsions-the-rayleighbenard-configuration/C181E4DE91567EF267E48F6B1643DF7B) \
 **J08**: "Effects of Rayleigh and Weber numbers on two-layer turbulent Rayleigh–Bénard convection" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Demou, **N. Scapin**, M.C. Esposito, P. Costa, F. Spiga, and L. Brandt \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics 996 (2024): A23](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/effects-of-rayleigh-and-weber-numbers-on-twolayer-turbulent-rayleighbenard-convection/1D97114A8D2BDBFFBAEC26EA8B910B09) I hope you are doing well as well. \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics 996 (2024): A23](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/effects-of-rayleigh-and-weber-numbers-on-twolayer-turbulent-rayleighbenard-convection/1D97114A8D2BDBFFBAEC26EA8B910B09) \
 **J07**: "An Efficient Isogeometric/Finite-Difference IBM for the Fluid-Structure Interactions of Slender Flexible Structures" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V. Agrawal, A. Kulachenko, **N. Scapin**, O. Tammisola, and L. Brandt. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Computer Methods in Applied Mechanics and Engineering 418 (2024): 116495](https://www.sciencedirect.com/science/article/pii/S0045782523006199) \
