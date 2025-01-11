@@ -12,7 +12,7 @@ redirect_from:
 Short Curriculum Vitae (here a complete [CV](../files/CV_Nicolo_Scapin.pdf))
 ======
 
-<h4 style="font-size: 18px;">Education</h4>
+<h3 style="font-size: 18px;">Education</h3>
 
 * **Ph.D. in Fluid Mechanics**, KTH Royal Institute of Technology (Stockholm, Sweden), June 2022 \
   **Thesis title**: <em>Phase-changing flows: numerical methods and fully resolved simulations.</em> \
@@ -20,7 +20,7 @@ Short Curriculum Vitae (here a complete [CV](../files/CV_Nicolo_Scapin.pdf))
 * **MSc in Energy Engineering**, Politecnico di Milano (Milan, Italy), 2017
 * **BSc in Energy Engineering**, Politecnico di Milano (Milan, Italy), 2014
 
-<h4 style="font-size: 18px;">Research Experience</h4>
+<h3 style="font-size: 18px;">Research Experience</h3>
 
 * January 2023 - Present: **Postdoctoral Research Fellow** at Princeton University (Princeton, NJ, US)
   * [High Meadows Environmental Institute](https://environment.princeton.edu/) and [Department of Mechanical and Aerospace Engineering](https://mae.princeton.edu/)
@@ -32,13 +32,13 @@ Short Curriculum Vitae (here a complete [CV](../files/CV_Nicolo_Scapin.pdf))
   * Advisor: [Luca Brandt](https://www.mech.kth.se/~luca/index.php)
   * Research topics: numerical methods for multiphase flows and large-scale simulations of phase-changing flows
 
-<h4 style="font-size: 18px;">Industrial Experience</h4>
+<h3 style="font-size: 18px;">Industrial Experience</h3>
 
 * June 2017 - February 2018: **Research Engineer**, ENI S.p.A. (Milan, IT)
   * Development of multiphase Eulerian solvers to model the transport of hydrocarbons in complex geometry
   * Participation in the start-up and the ramp-up activities of the Egyptian giant gas field [Zhor](https://www.eni.com/en-IT/actions/global-activities/egypt/zohr.html)
 
-<h4 style="font-size: 18px;">Funding acquisition</h4>
+<h3 style="font-size: 18px;">Funding acquisition</h3>
 
 * 2023: **HMEI Fellowship** to support the Postdoctoral Fellowship at **Princeton University** (**$300k** over three years)
 * 2023: **International Postdoctoral Grant** awarded from the **Swedish Research Council - Vetenskapsrådet** to support the research at **Princeton University** (**3.10 MKr/$290k** over three years) 
