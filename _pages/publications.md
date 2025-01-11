@@ -18,7 +18,7 @@ Peer-reviewed journals
 * "A Volume-of-Fluid method for multicomponent droplet evaporation with Robin boundary conditions" \
   S. Z. Salimi, **N. Scapin**, E. R. Popescu, P. Costa, and L. Brandt \
   [Journal of Computational Physics (2024): 113211](https://www.sciencedirect.com/science/article/pii/S0021999124004601)
-* "Turbulent convection in emulsions: the Rayleigh–B´enard configuration" \
+* "Turbulent convection in emulsions: the Rayleigh–Bénard configuration" \
   A. M. Bilondi, **N. Scapin**, L. Brandt, and P. Mirbor \
   [Journal of Fluid Mechanics 999 (2024): A4](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/turbulent-convection-in-emulsions-the-rayleighbenard-configuration/C181E4DE91567EF267E48F6B1643DF7B)
 * "Effects of Rayleigh and Weber numbers on two-layer turbulent Rayleigh–Bénard convection" \
@@ -27,7 +27,7 @@ Peer-reviewed journals
 * "An Efficient Isogeometric/Finite-Difference Immersed Boundary Method for the Fluid-Structure Interactions of Slender Flexible Structures" \
   V. Agrawal, A. Kulachenko, **N. Scapin**, O. Tammisola, and L. Brandt. \
   [Computer Methods in Applied Mechanics and Engineering 418 (2024): 116495](https://www.sciencedirect.com/science/article/pii/S0045782523006199)
-* "Evaporating Rayleigh-B´enard convection: prediction of interface temperature and global heat transfer modulation" \
+* "Evaporating Rayleigh–Bénard convection: prediction of interface temperature and global heat transfer modulation" \
   **N. Scapin**, A. D. Demou, and L. Brandt. \
   [Journal of Fluid Mechanics 957 (2023): A12](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/evaporating-rayleighbenard-convection-prediction-of-interface-temperature-and-global-heat-transfer-modulation/5A616CC444D34ACBBA4817B91F53C62F)
 * "FluTAS: A GPU-accelerated finite difference code for multiphase flows" \
