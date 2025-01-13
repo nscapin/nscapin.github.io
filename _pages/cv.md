@@ -38,7 +38,7 @@ Short Curriculum Vitae
   * Development of multiphase Eulerian solvers to model the transport of hydrocarbons in complex geometry
   * Participation in the start-up and the ramp-up activities of the Egyptian giant gas field [Zhor](https://www.eni.com/en-IT/actions/global-activities/egypt/zohr.html)
 
-<h3 style="font-size: 20px;">Funding acquisition</h3>
+<h3 style="font-size: 20px;">Awards</h3>
 
-* 2023: **HMEI Fellowship** to support the Postdoctoral Fellowship at **Princeton University** (**$300k** over three years)
-* 2023: **International Postdoctoral Grant** awarded from the **Swedish Research Council - Vetenskapsrådet** to support the research at **Princeton University** (**3.10 MKr/$290k** over three years) 
+* 2023: **HMEI Fellowship** to support the Postdoctoral Fellowship at **Princeton University**
+* 2023: **International Postdoctoral Grant** awarded from the **Swedish Research Council - Vetenskapsrådet** to support the research at **Princeton University**
