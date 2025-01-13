@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Short Curriculum Vitae (here a complete [CV](../files/CV_Nicolo_Scapin.pdf))
+Short Curriculum Vitae
 ======
 
 <h3 style="font-size: 20px;">Education</h3>
