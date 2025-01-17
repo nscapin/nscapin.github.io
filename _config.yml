@@ -11,10 +11,11 @@ locale                   : "en-US"
 title                    : "Postdoctoral Research Fellow"
 title_separator          : "-"
 name                     : &name "Nicolò Scapin"
-description              : &description "personal description"
+description              : &description "A personal website for showcasing my work"
 url                      : https://nscapin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nscapin/nscapin.github.io"
+robots                   : allow
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
