@@ -41,7 +41,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics 934 (2022): A15](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/finitesize-evaporating-droplets-in-weakly-compressible-homogeneous-shear-turbulence/2470139EBD897B842E771AAA75750326) \
 **J02**: "An interface capturing method for liquid-gas flows at low-Mach number" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F. Dalla Barba, **N. Scapin**, A. D. Demou, M. E. Rosti, F. Picano, and L. Brandt \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Computers \& Fluids 216 (2021): 104789](https://www.sciencedirect.com/science/article/abs/pii/S0045793020303595) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Computers & Fluids 216 (2021): 104789](https://www.sciencedirect.com/science/article/abs/pii/S0045793020303595) \
 **J01**: "A volume-of-fluid method for interface-resolved simulations of phase-changing two-fluid flows" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, P. Costa, and L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Computational Physics 407 (2020): 109251](https://www.sciencedirect.com/science/article/abs/pii/S0021999120300255)
