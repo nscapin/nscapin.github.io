@@ -54,7 +54,7 @@ author_profile: true
 
 <h3 style="font-size: 20px;">Books chapters (B)</h3>
 
-**B01**: Overview of tropical cyclones and historical perspective, <em>Chapter 1 of Tropical Cyclones and Associated Impacts</em> \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W. Yang, M. Chung, L. Deike, T.-L. Hsieh, M. Igbinoba, E. Levin, S. Menemenlis, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I. Mitevski, G. Rios, **N. Scapin**, and G. A. Vecchi \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elsevier (2025), pp. 1-25](https://shop.elsevier.com/books/tropical-cyclones-and-associated-impacts/villarini/978-0-323-95390-0)
+**B01**: Overview of tropical cyclones and historical perspective, <em>in Tropical Cyclones and Associated Impacts</em> \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W. Yang, E. Levin, S. Menemenlis, **N. Scapin**, M. Igbinoba, M. Chung, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G. Rios, T.-L. Hsieh, L. Deike, I. Mitevski, G. A. Vecchi \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elsevier (2025), pp. 1-25](https://www.sciencedirect.com/science/article/abs/pii/B9780323953900000017)
