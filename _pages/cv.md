@@ -41,4 +41,4 @@ Short Curriculum Vitae
 <h3 style="font-size: 20px;">Awards</h3>
 
 * 2023: **HMEI Fellowship** to support the Postdoctoral Fellowship at **Princeton University**
-* 2023: **International Postdoctoral Grant** awarded from the **Swedish Research Council - Vetenskapsrådet** to support the research at **Princeton University**
+* 2023: **International Postdoctoral Grant** awarded from the **Swedish Research Council - Vetenskapsrådet** to support the research at **Princeton University** (Declined)
