@@ -7,11 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-<h3 style="font-size: 20px;">Submitted/Accepted manuscript (S)</h3>
+<h3 style="font-size: 20px;">Submitted manuscript (S)</h3>
 
-**S01**: Momentum fluxes in wind-forced breaking waves. \
+**S02**: "Growth and energy dissipation in wind-forced breaking waves" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Accepted for publication on the Journal of Fluid Mechanics</em>. See [Arxiv preprint](http://arxiv.org/abs/2411.03415)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. See [Arxiv preprint](https://arxiv.org/abs/2506.17802) \
+**S01**: "Evaporation of Finite-Size Ammonia and n-Heptane Droplets in Weakly Compressible Turbulence: An Interface-Resolved DNS Study" \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. Z. Salimi, A. Gruber, **N. Scapin**, and L. Brandt \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. See [Arxiv preprint](https://arxiv.org/abs/2504.16850) 
     
 <h3 style="font-size: 20px;">Peer-reviewed journals (J)</h3>
 
@@ -45,6 +48,12 @@ author_profile: true
 **J01**: "A volume-of-fluid method for interface-resolved simulations of phase-changing two-fluid flows" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, P. Costa, and L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Computational Physics 407 (2020): 109251](https://www.sciencedirect.com/science/article/abs/pii/S0021999120300255)
+
+<h3 style="font-size: 20px;">News and Views (N)</h3>
+
+**N01**: Towards efficient and adaptive simulations for continuum physics \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin** \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nature Computational Science (2025): 1-2](https://www.nature.com/articles/s43588-025-00791-z)
 
 <h3 style="font-size: 20px;">Peer-reviewed proceedings (P)</h3>
 
