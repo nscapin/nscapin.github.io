@@ -9,15 +9,21 @@ author_profile: true
 
 <h3 style="font-size: 20px;">Submitted manuscript (S)</h3>
 
+**S03**: "Kinematics of gravity-capillary waves above an evolving underwater current" \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. M. Blanco, **N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Open ESS preprint](10.22541/essoar.175214778.85637364/v1) \
 **S02**: "Growth and energy dissipation in wind-forced breaking waves" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. See [Arxiv preprint](https://arxiv.org/abs/2506.17802) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Arxiv preprint](https://arxiv.org/abs/2506.17802) \
 **S01**: "Evaporation of Finite-Size Ammonia and n-Heptane Droplets in Weakly Compressible Turbulence: An Interface-Resolved DNS Study" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. Z. Salimi, A. Gruber, **N. Scapin**, and L. Brandt \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. See [Arxiv preprint](https://arxiv.org/abs/2504.16850) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Arxiv preprint](https://arxiv.org/abs/2504.16850) 
     
 <h3 style="font-size: 20px;">Peer-reviewed journals (J)</h3>
 
+**J11**: "Momentum fluxes in wind-forced breaking waves" \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics 1009 (2025): A20](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/momentum-fluxes-in-windforced-breaking-waves/22F4CF703A8ADA6D94740CE3C321166A) \
 **J10**: "A Volume-of-Fluid method for multicomponent droplet evaporation with Robin boundary conditions" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. Z. Salimi, **N. Scapin**, E. R. Popescu, P. Costa, and L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Computational Physics (2024): 113211](https://www.sciencedirect.com/science/article/pii/S0021999124004601) \
