@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h3 style="font-size: 20px;">Submitted manuscript (S)</h3>
+<h3 style="font-size: 20px;">Submitted manuscripts (S)</h3>
 
 **S03**: "Kinematics of gravity-capillary waves above an evolving underwater current" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. M. Blanco, **N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
