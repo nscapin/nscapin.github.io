@@ -15,7 +15,8 @@ author_profile: true
 **S02**: "Growth and energy dissipation in wind-forced breaking waves" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Arxiv preprint](https://arxiv.org/abs/2506.17802) \
-**S01**: "Evaporation of Finite-Size Ammonia and n-Heptane Droplets in Weakly Compressible Turbulence: An Interface-Resolved DNS Study" \
+**S01**: "Evaporation of Finite-Size Ammonia and n-Heptane Droplets in Weakly Compressible Turbulence:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An Interface-Resolved DNS Study" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. Z. Salimi, A. Gruber, **N. Scapin**, and L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Arxiv preprint](https://arxiv.org/abs/2504.16850) 
     
