@@ -11,7 +11,7 @@ author_profile: true
 
 **S03**: "Kinematics of gravity-capillary waves above an evolving underwater current" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. M. Blanco, **N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Open ESS preprint](10.22541/essoar.175214778.85637364/v1) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Open ESS preprint](https://doi.org/10.22541/essoar.175214778.85637364/v1) \
 **S02**: "Growth and energy dissipation in wind-forced breaking waves" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Arxiv preprint](https://arxiv.org/abs/2506.17802) \
