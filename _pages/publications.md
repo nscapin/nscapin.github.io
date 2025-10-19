@@ -9,12 +9,12 @@ author_profile: true
 
 <h3 style="font-size: 20px;">Submitted manuscripts (S)</h3>
 
-**S03**: "Kinematics of gravity-capillary waves above an evolving underwater current" \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. M. Blanco, **N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Open ESS preprint](https://doi.org/10.22541/essoar.175214778.85637364/v1) \
-**S02**: "Growth and energy dissipation in wind-forced breaking waves" \
+**S03**: "Growth and energy dissipation in wind-forced breaking waves" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Arxiv preprint](https://arxiv.org/abs/2506.17802) \
+**S02**: "Kinematics of gravity-capillary waves above an evolving underwater current" \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. M. Blanco, **N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Open ESS preprint](https://doi.org/10.22541/essoar.175214778.85637364/v1) \
 **S01**: "Evaporation of Finite-Size Ammonia and n-Heptane Droplets in Weakly Compressible Turbulence:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An Interface-Resolved DNS Study" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. Z. Salimi, A. Gruber, **N. Scapin**, and L. Brandt \
@@ -22,6 +22,9 @@ author_profile: true
     
 <h3 style="font-size: 20px;">Peer-reviewed journals (J)</h3>
 
+**J12**: "Towards efficient and adaptive simulations for continuum physics" (**Invited!**) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin** \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nature Computational Science (2025): 1-2](https://www.nature.com/articles/s43588-025-00791-z) \
 **J11**: "Momentum fluxes in wind-forced breaking waves" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics 1009 (2025): A20](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/momentum-fluxes-in-windforced-breaking-waves/22F4CF703A8ADA6D94740CE3C321166A) \
@@ -56,21 +59,15 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, P. Costa, and L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Computational Physics 407 (2020): 109251](https://www.sciencedirect.com/science/article/abs/pii/S0021999120300255)
 
-<h3 style="font-size: 20px;">News and Views (N)</h3>
+<h3 style="font-size: 20px;">Peer-reviewed proceedings</h3>
 
-**N01**: Towards efficient and adaptive simulations for continuum physics \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin** \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nature Computational Science (2025): 1-2](https://www.nature.com/articles/s43588-025-00791-z)
+* A mass-conserving pressure-based method for two-phase flows with phase change \
+**N. Scapin**, A. Shahmardi, W. H. R. Chan, S. S. Jain, S. Mirjalili, M. Pelanti, L. Brandt \
+[Proceedings of the Summer Program, Center for Turbulence Research (2022)](https://web.stanford.edu/~sjsuresh/iii08_Scapin.pdf)
 
-<h3 style="font-size: 20px;">Peer-reviewed proceedings (P)</h3>
+<h3 style="font-size: 20px;">Books chapters</h3>
 
-**P01**: A mass-conserving pressure-based method for two-phase flows with phase change \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, A. Shahmardi, W. H. R. Chan, S. S. Jain, S. Mirjalili, M. Pelanti, L. Brandt \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Proceedings of the Summer Program, Center for Turbulence Research (2022)](https://web.stanford.edu/~sjsuresh/iii08_Scapin.pdf)
-
-<h3 style="font-size: 20px;">Books chapters (B)</h3>
-
-**B01**: Overview of tropical cyclones and historical perspective, <em>in Tropical Cyclones and Associated Impacts</em> \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W. Yang, E. Levin, S. Menemenlis, **N. Scapin**, M. Igbinoba, M. Chung, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G. Rios, T.-L. Hsieh, L. Deike, I. Mitevski, G. A. Vecchi \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elsevier (2025), pp. 1-25](https://www.sciencedirect.com/science/article/abs/pii/B9780323953900000017)
+* Overview of tropical cyclones and historical perspective, <em>in Tropical Cyclones and Associated Impacts</em> \
+W. Yang, E. Levin, S. Menemenlis, **N. Scapin**, M. Igbinoba, M. Chung, \
+G. Rios, T.-L. Hsieh, L. Deike, I. Mitevski, G. A. Vecchi \
+[Elsevier (2025), pp. 1-25](https://www.sciencedirect.com/science/article/abs/pii/B9780323953900000017)
