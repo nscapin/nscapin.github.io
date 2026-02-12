@@ -15,13 +15,13 @@ author_profile: true
 **S02**: "Kinematics of gravity-capillary waves above an evolving underwater current" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. M. Blanco, **N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Open ESS preprint](https://doi.org/10.22541/essoar.175214778.85637364/v1) \
-**S01**: "Evaporation of Finite-Size Ammonia and n-Heptane Droplets in Weakly Compressible Turbulence:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An Interface-Resolved DNS Study" \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. Z. Salimi, A. Gruber, **N. Scapin**, and L. Brandt \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Arxiv preprint](https://arxiv.org/abs/2504.16850) 
     
 <h3 style="font-size: 20px;">Peer-reviewed journals (J)</h3>
 
+**J13**: "Evaporation of Finite-Size Ammonia and n-Heptane Droplets in Weakly Compressible Turbulence:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An Interface-Resolved DNS Study" \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. Z. Salimi, A. Gruber, **N. Scapin**, and L. Brandt \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[International Journal of Heat and Mass Transfer (2026): 128188](https://www.sciencedirect.com/science/article/pii/S0017931025015224) \
 **J12**: "Towards efficient and adaptive simulations for continuum physics" (**Invited!**) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nature Computational Science (2025): 1-2](https://www.nature.com/articles/s43588-025-00791-z) \
