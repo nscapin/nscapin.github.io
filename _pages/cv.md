@@ -12,6 +12,8 @@ redirect_from:
 Short Curriculum Vitae
 ======
 
+[Download CV (PDF)](/files/CV_Nicolo_Scapin.pdf)
+
 <h3 style="font-size: 20px;">Education</h3>
 
 * **Ph.D. in Fluid Mechanics**, KTH Royal Institute of Technology (Stockholm, Sweden), June 2022 \
@@ -36,7 +38,7 @@ Short Curriculum Vitae
 
 * June 2017 - February 2018: **Research Engineer**, ENI S.p.A. (Milan, IT)
   * Development of multiphase Eulerian solvers to model the transport of hydrocarbons in complex geometry
-  * Participation in the start-up and the ramp-up activities of the Egyptian giant gas field [Zhor](https://www.eni.com/en-IT/actions/global-activities/egypt/zohr.html)
+  * Participation in the start-up and the ramp-up activities of the Egyptian giant gas field [Zohr](https://www.eni.com/en-IT/actions/global-activities/egypt/zohr.html)
 
 <h3 style="font-size: 20px;">Awards</h3>
 

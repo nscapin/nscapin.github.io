@@ -7,16 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-<h3 style="font-size: 20px;">Submitted manuscripts (S)</h3>
-
-**S01**: "Kinematics of gravity-capillary waves above an evolving underwater current" \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. M. Blanco, **N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Submitted</em>. Read it here: [Open ESS preprint](https://doi.org/10.22541/essoar.175214778.85637364/v1) 
-    
 <h3 style="font-size: 20px;">Peer-reviewed journals (J)</h3>
 
+**J16**: "Multilayer simulation of wind-forced breaking wave fields" \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R. Yang, J. Wu, **N. Scapin**, J. Thomas Farrar, B. Chapron, S. Popinet, L. Deike \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Journal of Fluid Mechanics (in press)</em> \
+**J15**: "Kinematics of gravity–capillary waves above an evolving underwater current" \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. Martin-Blanco, **N. Scapin**, J. Wu, S. Popinet, J. Thomas Farrar, B. Chapron, L. Deike \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics 1035, A5 (2026)](https://doi.org/10.1017/jfm.2026.11523) \
 **J14**: "Growth and energy dissipation in wind-forced breaking waves" \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Chapron, S. Popinet, L. Deike \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Geophysical Research Letters (2026)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL117901) \
 **J13**: "Evaporation of Finite-Size Ammonia and n-Heptane Droplets in Weakly Compressible Turbulence:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An Interface-Resolved DNS Study" \
@@ -26,16 +26,16 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nature Computational Science (2025)](https://www.nature.com/articles/s43588-025-00791-z) \
 **J11**: "Momentum fluxes in wind-forced breaking waves" \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Charpron, S. Popinet, L. Deike \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**N. Scapin**, J. Wu, J. Thomas Farrar, B. Chapron, S. Popinet, L. Deike \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics (2025)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/momentum-fluxes-in-windforced-breaking-waves/22F4CF703A8ADA6D94740CE3C321166A) \
 **J10**: "A Volume-of-Fluid method for multicomponent droplet evaporation with Robin boundary conditions" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. Z. Salimi, **N. Scapin**, E. R. Popescu, P. Costa, and L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Computational Physics (2024)](https://www.sciencedirect.com/science/article/pii/S0021999124004601) \
 **J09**: "Turbulent convection in emulsions: the Rayleigh–Bénard configuration" \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. M. Bilondi, **N. Scapin**, L. Brandt, and P. Mirbor \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. M. Bilondi, **N. Scapin**, L. Brandt, and P. Mirbod \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics (2024)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/turbulent-convection-in-emulsions-the-rayleighbenard-configuration/C181E4DE91567EF267E48F6B1643DF7B) \
 **J08**: "Effects of Rayleigh and Weber numbers on two-layer turbulent Rayleigh–Bénard convection" \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Demou, **N. Scapin**, M.C. Esposito, P. Costa, F. Spiga, and L. Brandt \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Demou, **N. Scapin**, M. Crialesi-Esposito, P. Costa, F. Spiga, and L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics (2024)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/effects-of-rayleigh-and-weber-numbers-on-twolayer-turbulent-rayleighbenard-convection/1D97114A8D2BDBFFBAEC26EA8B910B09) \
 **J07**: "An Efficient Isogeometric/Finite-Difference IBM for the Fluid-Structure Interactions of Slender Flexible Structures" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V. Agrawal, A. Kulachenko, **N. Scapin**, O. Tammisola, and L. Brandt. \
@@ -45,7 +45,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Fluid Mechanics (2023)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/evaporating-rayleighbenard-convection-prediction-of-interface-temperature-and-global-heat-transfer-modulation/5A616CC444D34ACBBA4817B91F53C62F) \
 **J05**: "FluTAS: A GPU-accelerated finite difference code for multiphase flows" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. Crialesi-Esposito, **N. Scapin**, A. D. Demou, M. E. Rosti, P. Costa, F. Spiga, and L. Brandt \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Computer Physics Communication (2023)](https://www.sciencedirect.com/science/article/pii/S0010465522003216) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Computer Physics Communications (2023)](https://www.sciencedirect.com/science/article/pii/S0010465522003216) \
 **J04**: "A pressure-based diffuse interface method for low-Mach multiphase flows with mass transfer" \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Demou, **N. Scapin**, M. Pelanti, and L. Brandt \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Journal of Computational Physics (2022)](https://www.sciencedirect.com/science/article/pii/S0021999121006252) \
